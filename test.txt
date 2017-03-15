@@ -1,5 +1,1 @@
-hi world!
-
-oh I said hello world!
-
-hello world 3!
+hello
